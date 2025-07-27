@@ -134,3 +134,7 @@ The application is designed to be easily deployable to platforms like Replit, Ve
 - **Google Workspace Focus**: Emphasized exclusive Google Workspace support for VSF community
 - **School Motto Integration**: Added "Tradisyonal na galing, Makabagong pag-iisip" to footer
 - **Academic Excellence Messaging**: Highlighted "More Than 60 Years of Academic Excellence"
+- **Email Notifications Added**: Implemented SendGrid integration for automatic email alerts to ITadmin@vsf.edu.ph
+- **Live Agent Request Feature**: Added urgent assistance button that pre-fills priority and sends immediate notifications
+- **Fixed Vercel Deployment**: Resolved "Could not resolve entry module" error with updated build configuration
+- **Custom Build Process**: Created specialized build script for proper Vite + Express deployment on Vercel
